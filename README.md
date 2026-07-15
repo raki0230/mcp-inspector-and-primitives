@@ -264,7 +264,7 @@ Creates a reusable prompt template for generating a secure password for a specif
 
 If you're new to MCP and would like a detailed explanation of **MCP Inspector** and **MCP Primitives**, check out my accompanying Medium article.
 
-**Medium:** <YOUR_MEDIUM_ARTICLE_LINK>
+**Medium:** https://medium.com/@n.raki2331/understanding-mcp-inspector-and-the-three-core-mcp-primitives-tools-resources-prompts-e6069f1ca75d?sharedUserId=n.raki2331
 
 ---
 
