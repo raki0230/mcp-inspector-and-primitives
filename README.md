@@ -164,7 +164,7 @@ You can now interact with the server using natural language.
 
 For example:
 
-> Generate a strong password for my banking account.
+> Generate a strong password for my email.
 
 or
 
